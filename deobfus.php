@@ -23,7 +23,7 @@ fwrite(STDOUT, "
      * You can check this by opening a terminal and typing 'php -v' (without the quotes).It would display version information if installed.
      *
      * @usage
-     * php debofus.php inputfilename.php outputfilename.php
+     * php deobfus.php inputfilename.php outputfilename.php
      *           OR
      * chmod +x deobfus.php
      * ./deobfus.php inputfilename.php outputfilename.php
